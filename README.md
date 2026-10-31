@@ -1,17 +1,20 @@
 # Hacktoberfest 2026 🎃
 
-A little sad to miss the PR system and merch this year… but hey, cool stickers still make me happy 🥹✨
-
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img src="assets/completionist++.webp" alt="My completion certificate" height="200">
-    </td>
-    <td align="center" valign="middle">
       <img src="assets/hacktoberfest-2026-sticker-book.webp" alt="My sticker book" height="200">
     </td>
+    <td align="center" valign="middle">
+      <img src="assets/completionist++.webp" alt="My completion certificate" height="200">
+    </td>
+    
   </tr>
 </table>
+
+
+A little sad to miss the PR system and merch this year… but hey, cool stickers still make me happy 🥹✨
+<p> </p>
 
 <table>
   <tr>
