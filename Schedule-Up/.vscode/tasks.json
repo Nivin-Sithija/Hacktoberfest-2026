@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "ScheduleUp: start dependencies",
+      "type": "process",
+      "command": "${workspaceFolder}/node_modules/.bin/node",
+      "args": ["--env-file-if-exists=.env", "--import", "tsx", "scripts/start-local.ts"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated", "clear": true }
+    },
+    {
+      "label": "ScheduleUp: build dashboard",
+      "type": "shell",
+      "command": "npm run build",
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "ScheduleUp: prepare workspace",
+      "dependsOrder": "sequence",
+      "dependsOn": ["ScheduleUp: start dependencies", "ScheduleUp: build dashboard"],
+      "problemMatcher": []
+    }
+  ]
+}
