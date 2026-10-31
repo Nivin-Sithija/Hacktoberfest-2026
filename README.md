@@ -1,19 +1,34 @@
 # Hacktoberfest 2026 🎃
 
-A little sad to miss the PR system and merch this year… but hey, cool stickers still make me happy! 🥹✨
+A little sad to miss the PR system and merch this year… but hey, cool stickers still make me happy 🥹✨
 
-## Global Hack Week — 31 points! 🏆
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="assets/completionist++.webp" alt="My completion certificate" height="200">
+    </td>
+    <td align="center" valign="middle">
+      <img src="assets/hacktoberfest-2026-sticker-book.webp" alt="My sticker book" height="200">
+    </td>
+  </tr>
+</table>
 
-[Codespaces](global-hackweek/skills-code-with-codespaces/) · [GitHub Copilot](global-hackweek/skills-getting-started-with-github-copilot/) · [Repository management](global-hackweek/skills-introduction-to-repository-management/)
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      <img src="assets/global-hackweek.webp" alt="Global Hack Week" width="460">
+    </td>
+    <td valign="middle">
+      <h3>Global Hack Week 🏆</h3>
+      <p><strong>31 points collected!</strong></p>
+      <a href="https://ghw.mlh.com/events">Global Hack Week: Hacktoberfest</a>
+    </td>
+  </tr>
+</table>
 
-![Global Hack Week](assets/global-hackweek.webp)
-
-## Two DEV challenges, two little adventures 🚀
+### DEV challenges
 
 - [Schedule-Up](Schedule-Up/) — WhatsApp & Telegram commitments, tasks, and safe follow-ups. [Read the story](https://dev.to/sithijaseneviratne/the-most-expensive-task-manager-for-a-side-hustle-is-the-one-in-your-head-31h9).
 - [ShadeWindow](ShadeWindow/) — a little shade, a better walk. [Read the story](https://dev.to/sithijaseneviratne/shadewindow-a-little-shade-a-better-walk-16en).
 
-## Proof I showed up (and collected stickers) 🎓📚
-
-![My completion certificate](assets/completionist++.webp)
-![My sticker book](assets/hacktoberfest-2026-sticker-book.webp)
+**· Gemma · Tiger Data · GitHub Copilot  ·  Render  · Temporal · Mastra · OpenRouter**
